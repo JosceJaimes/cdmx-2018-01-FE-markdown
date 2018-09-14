@@ -4,20 +4,7 @@ const files = require('fs');
 //llamo a la api
 const path = require('path');
 
-// const validate = (err, url) => {
-//     console.log(url);
-    
-// // if (err){
-// //     console.log('error');
-// // }else(url =  )
 
-// }
-
-// const validateUrl = (err,newUrl) => {
-//     console.log(newUrl);
-    
-// }
-// console.log(newUrl);
 
 function validate(newUrl){
    

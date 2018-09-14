@@ -4,15 +4,13 @@
   "description": "Generación de un programa que le archivos md.",
   "main": "cli.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "dependencies": {
     "eslint": "^4.19.1",
     "htmlhint": "^0.9.13",
-    "modulo.node":"1.0.0"
+    "modulo.node": "1.0.0"
   },
   "author": "Josceline Jaimes",
   "license": "ISC"
-  
 }
-
