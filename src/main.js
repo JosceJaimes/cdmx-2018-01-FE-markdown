@@ -73,7 +73,9 @@ const validatePath = (pathrout)=>{
     }
 }
 
-validatePath('./README.md');
+
+validatePath('./src/README.md');
+
 
  
 
