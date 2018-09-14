@@ -123,9 +123,3 @@ module.exports = {
 
 
 
-    // // newArray.forEach(element=>{
-    //     fetch(newArray).then((resolve)=>{
-    //         console.log(resolve.status);    
-    //     // })
-    //     // .catch(error)
-    //     // console.log(error);})
